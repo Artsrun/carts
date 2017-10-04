@@ -200,7 +200,7 @@ numberToAdd = numbersArray.indexOf(numb);
 	vertical-align:top;
 	width:30%;
 	 }
-	 .found{
+.selected{
 	 padding-left:3px;
 	 }
 .btn {
